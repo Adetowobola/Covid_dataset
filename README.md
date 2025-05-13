@@ -9,6 +9,6 @@ Python was the tool used for the analysis.
 Three major steps was used to Analyze the data
 1) The data set was cleaned by removing duplicates, missing values were handled using mean imputation based on each country, Date time was standardized
 
-2) I explored the data to gain insights into trends , compared new deaths and new cases , check the distribution across countries, Correlation between cases , effects of vaccinations .
+2) I explored the data to gain insights into trends , compared new deaths and new cases , checked the distribution across countries, Correlation between cases , effects of vaccinations .
 
-3) Finally , I visualized to gain major Covid cases, daeths and vaccination insights across countries
+3) Finally , I visualized to gain major Covid cases, deaths and vaccination insights across countries
